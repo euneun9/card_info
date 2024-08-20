@@ -47,7 +47,7 @@ if(clicked1 == True):
     st.dataframe(df)
     
 
-
+'''
 if(clicked2 == True):    
     start_p = date_range[0]               
     end_p = date_range[1] + datetime.timedelta(days=1) 
@@ -66,3 +66,4 @@ if(clicked2 == True):
     with columns[1]:
         st.download_button("엑셀 파일 다운로드", 
         excel_data, file_name='stock_data.xlsx')
+'''
