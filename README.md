@@ -4,7 +4,7 @@
 
 <h2> Streamlit 실행 화면</h2>
 <figure class="half">  
-  <a href="link"><img src="./images/card_info_try.gif"></a>
+  <a href="link"><img src="./images/card_info_try2.gif"></a>
 </figure>
 
 <h3> 카드고릴라 사이트</h3>
